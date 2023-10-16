@@ -1,5 +1,5 @@
 <h1 align="center">
-    Bookstore demo from FE-23 course at Dwarves Foundation
+    Bookstore Demo
 </h1>
 <p align="center">
     <a href="https://github.com/dwarvesf">
@@ -10,8 +10,7 @@
     </a>
 </p>
 
-An opinionated production-ready frontend boilerplate built on top of NextJS,
-shipped with TypeScript, SWR, TailwindCSS, Tremor, HeadlessUI, Orval
+Bookstore demo from FE-23 course at Dwarves Foundation. Built on top of NextJS, shipped with TypeScript, SWR, TailwindCSS, Tremor, HeadlessUI, Orval.
 
 ## Quick Start
 
